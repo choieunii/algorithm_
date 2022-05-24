@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "java/sort",
+        "java/queue",
+        "java/divideAndConquer",
+        "java/backtracking",
+        "java",
+        "dev"
+    ]
+}

@@ -21,7 +21,7 @@ public class Main1260 {
             A[i] = new ArrayList<>();
         }
 
-        for (int i = 0; i <= N; i++) {
+        for (int i = 0; i < M; i++) {
             st = new StringTokenizer(br.readLine());
             int s = Integer.parseInt(st.nextToken());
             int e = Integer.parseInt(st.nextToken());

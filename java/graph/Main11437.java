@@ -4,7 +4,7 @@ import java.io.*;
 import java.lang.*;
 import java.util.*;
 
-public class Main {
+public class Main11437 {
     static List<List<Integer>> tree = new ArrayList<>();
     static int[] parent;
     static int[] depth;

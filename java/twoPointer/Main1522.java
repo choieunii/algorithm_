@@ -1,4 +1,4 @@
-package string;
+package twoPointer;
 
 import java.io.*;
 import java.lang.*;

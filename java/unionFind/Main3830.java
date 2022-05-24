@@ -61,6 +61,7 @@ public class Main3830 {
         return parent[id] = pid;
     }
 
+    // 루트 찾기
     static void union(int a, int b, long diff) {
         int pa = find(a);
         int pb = find(b);
@@ -72,4 +73,5 @@ public class Main3830 {
         parent[pb] = pa;
         return;
     }
+    // 트리에 붙이기
 }
